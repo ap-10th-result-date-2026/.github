@@ -47,7 +47,7 @@ In the internal process, papers are sealed and collected from examination center
 
 **So, now you know how SSC Result dates are Calculated, and how student result data is processed.** 
 
-## What happens exactly on Result day @ bse.ap.gov.in portal
+### What happens exactly on Result day @ bse.ap.gov.in portal
 
 Huge traffic spike is detected on AP Government result servers, viewing results becomes little bit difficult, students may struggle on result day to view their result, for first 2 to 4 hours, sometimes people with only high speed connections view their result, a minor panic situation will be occured, this time, government of AP is planning to avoid this situation. 
 
@@ -56,9 +56,17 @@ Huge traffic spike is detected on AP Government result servers, viewing results 
 Students can also check results via friends and some whatsapp groups, but in first 1 hour results become more intence to view. students are requested not to panic in that situation. 
 
 
-# Some smart ways to check results Faster on Result day..! 
+## Some smart ways to check results Faster on Result day..! 
 
 use Google Search only (Trusted) view results from official websites only Search for AP SSC result 2026 on google search bar, keep your hallticket number/Roll number copied and directly pasted to avoid mistakes, other wise server will pop out msg "error result not displayed" 
 
 Use 2 or more devices, at that time, if device one fails to load page from server, device 2 can help, viewing your result, if result is released do not panic, wait at least for 15 to 20 minutes and open governmen website bse.ap.gov.in/result page. 
+
+## What to do if result is delayed (VERY Rare Senario) 
+
+Mostly results wont get delayed, this is a very rare situation, if results get delayed government will inform through their web portans about it, mostly it won't happen, but if it happens, we will inform you through this page, about what happend and about the issue caused for ap 10th results delay.
+
+> Realistic Delay range: 3 to 7 days max.!
+
+
 

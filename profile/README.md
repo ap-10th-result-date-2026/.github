@@ -2,7 +2,7 @@
 
 In this update current status of Andhra pradesh SSC Board Current status of Examination, Result dates and much more, this page is created to help all students of andhra, to view their result. AP SSC 10th result date 2026 Status currently students are writing examination soo, results will be out in the month of APRIL, Expected to be announced at last week of APRIL. 
 
-> The Expected date for AP 10th Result is APril 26 2026 and time is around 10 AM to 1200 
+> The Expected date for AP 10th Result is APril 26 2026 and time is around 10 AM to 1:00 PM, No Delay.! 
 
 UPDATE: 30-03-2026 
 > AP SSC 10th Result date Online for the year 2026: Government of Andhra pradesh is currently conducting examinations, till APRIL 2nd. After that validation of papers will begin. 
@@ -33,4 +33,8 @@ UPDATE: 30-03-2026
 | Result access steps | 1. visit official site bse.ap.gov.in > Enter hall ticket num > View/Download your result |
             
 # Examination papers evaluation Starts from April 4th 2026
-The Government of andhra pradesh has decided to validate students answer sheets from 4th of april 2026, candidates papers are corrected by government teachers on special shifts.
+The Government of andhra pradesh has decided to validate students answer sheets from 4th of april 2026, candidates papers are corrected by government teachers on special shifts, all government teachers are participated to validate papers. This time examination papers are corrected stirctly. 
+
+# How 10 th Result date is Decided 
+
+In the internal process, papers are sealed and collected from examination centers of Andhra pradesh, all schools will dispatch papers to main correction hub, where papers are corrected. This process includes organizing papers, alloting papers to concern teachers, inspecting answer sheets pattern and much more, this process takes around 10 to 15 days after examination. 

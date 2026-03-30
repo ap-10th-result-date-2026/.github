@@ -70,5 +70,19 @@ Mostly results wont get delayed, this is a very rare situation, if results get d
 
 > Realistic Delay range: 3 to 7 days max.!
 
+## Faq's about ap 10th result date 2026:
+
+#### What is the expected date for 10th result of andhra pradesh?
+It depends on various factors, after after validating all factors, result will be published in april 26 2026.
+
+#### What is the exact time result get displayed?
+Results will be published in between 10:00 AM to 1:00 PM Indian standard time. 
+
+#### Can results come before april 20 ? 
+NO..! there is no change for that based on our authentic calculation. Answer sheets are validated throughly and uploaded to ap government servers, to do this precisely AP BSE Board needs some time.
+
+#### How to handle webpage down issue ?
+Be calm and patient, bse.ap.gov.in provides mirror web servers, all links will be updated here. 
+
 
 

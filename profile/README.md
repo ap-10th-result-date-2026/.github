@@ -17,7 +17,7 @@ UPDATE: 30-03-2026
   </a>
 </p>
 
-AP 10th result alerts 
+> Update 30-03-2026, Today **Social Studies** Exam is conducted with 96% of Exam Attendence, from morning 9:30 🕥 to 12:45 Pm. 
 
 <p align="center"><b>⚡ Get instant AP SSC Result 2026 updates before everyone else!</b></p>
 

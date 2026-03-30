@@ -1,6 +1,6 @@
 ## Andhra Pradesh 10th result date 2026 | AP 10th result Expected date Updates
 
-In this update current status of Andhra pradesh SSC Board Current status of Examination, Result dates and much more, this page is created to help all students of andhra, to view their result. AP SSC 10th result date 2026 Status currently students are writing examination soo, results will be out in the month of APRIL, Expected to be announced at last week of APRIL. 
+In this update we will provide tentative dates with official confirmation, & status of Andhra pradesh SSC Board, Result dates and much more, this page is created to help all students of andhra, to view their result. AP SSC 10th result date 2026 Status currently students are writing examination. results will be out in the month of APRIL, Expected to be announced at last week of APRIL. 
 
 > The Expected date for AP 10th Result is APril 26 2026 and time is around 10 AM to 1:00 PM, No Delay.! 
 
@@ -47,6 +47,18 @@ In the internal process, papers are sealed and collected from examination center
 
 **So, now you know how SSC Result dates are Calculated, and how student result data is processed.** 
 
-##
+## What happens exactly on Result day @ bse.ap.gov.in portal
 
+Huge traffic spike is detected on AP Government result servers, viewing results becomes little bit difficult, students may struggle on result day to view their result, for first 2 to 4 hours, sometimes people with only high speed connections view their result, a minor panic situation will be occured, this time, government of AP is planning to avoid this situation. 
+
+> A minor mirror servers are added by government of ap to avoid load on main servers and to view results faster.
+
+Students can also check results via friends and some whatsapp groups, but in first 1 hour results become more intence to view. students are requested not to panic in that situation. 
+
+
+# Some smart ways to check results Faster on Result day..! 
+
+use Google Search only (Trusted) view results from official websites only Search for AP SSC result 2026 on google search bar, keep your hallticket number/Roll number copied and directly pasted to avoid mistakes, other wise server will pop out msg "error result not displayed" 
+
+Use 2 or more devices, at that time, if device one fails to load page from server, device 2 can help, viewing your result, if result is released do not panic, wait at least for 15 to 20 minutes and open governmen website bse.ap.gov.in/result page. 
 

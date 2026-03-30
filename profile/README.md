@@ -29,3 +29,5 @@ UPDATE: 30-03-2026 > AP SSC 10th Result date Online for the year 2026: Governmen
 | Expected time result | Around 10:AM - 12 PM |
 | Result access steps | 1. visit official site bse.ap.gov.in > Enter hall ticket num > View/Download your result |
             
+# Examination papers evaluation Starts from April 4th 2026
+The Government of andhra pradesh has decided to validate students answer sheets from 4th of april 2026, candidates papers are corrected by government teachers on special shifts.

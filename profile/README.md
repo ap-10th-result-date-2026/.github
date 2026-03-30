@@ -1,6 +1,6 @@
 ## Andhra Pradesh 10th result date 2026 | AP 10th result Expected date Updates
 
-In this update we will provide tentative dates with official confirmation, & status of Andhra pradesh SSC Board, Result dates and much more, this page is created to help all students of andhra, to view their result. AP SSC 10th result date 2026 Status currently students are writing examination. results will be out in the month of APRIL, Expected to be announced at last week of APRIL. 
+In this update we will provide tentative dates **(ap 10th result date 2026)** with official confirmation, & status of Andhra pradesh SSC Board, Result dates and much more, this page is created to help all students of andhra, to view their result. AP SSC 10th result date 2026 Status currently students are writing examination. results will be out in the month of APRIL, Expected to be announced at last week of APRIL. 
 
 > The Expected date for AP 10th Result is APril 26 2026 and time is around 10 AM to 1:00 PM, No Delay.! 
 

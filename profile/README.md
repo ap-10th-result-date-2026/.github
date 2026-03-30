@@ -32,9 +32,9 @@ UPDATE: 30-03-2026
 | Expected time result | Around 10:AM - 12 PM |
 | Result access steps | 1. visit official site bse.ap.gov.in > Enter hall ticket num > View/Download your result |
             
-# Examination papers evaluation Starts from April 4th 2026
+## Examination papers evaluation Starts from April 4th 2026
 The Government of andhra pradesh has decided to validate students answer sheets from 4th of april 2026, candidates papers are corrected by government teachers on special shifts, all government teachers are participated to validate papers. This time examination papers are corrected stirctly. 
 
-# How 10 th Result date is Decided 
+## How 10 th Result date is Decided 
 
 In the internal process, papers are sealed and collected from examination centers of Andhra pradesh, all schools will dispatch papers to main correction hub, where papers are corrected. This process includes organizing papers, alloting papers to concern teachers, inspecting answer sheets pattern and much more, this process takes around 10 to 15 days after examination. 

@@ -39,7 +39,7 @@ The Government of andhra pradesh has decided to validate students answer sheets 
 
 In the internal process, papers are sealed and collected from examination centers of Andhra pradesh, all schools will dispatch papers to main correction hub, where papers are corrected. This process includes organizing papers, alloting papers to concern teachers, inspecting answer sheets pattern and much more, this process takes around 10 to 15 days after examination. 
 
-**Uploading of marks: Marks will be uploaded from government Data centers, in Visakapatanam from official andhra pradesh board. This process takes around 3 to 5 days after correcting papers. This complete process will be done precisly by Government proffesionals. **
+** Uploading of marks: Marks will be uploaded from government Data centers, in Visakapatanam from official andhra pradesh board. This process takes around 3 to 5 days after correcting papers. This complete process will be done precisly by Government proffesionals. **
 
 After completion of uploading marks, random stress tests and input tests are done, to test server, this allows to check server capabilitis to avoid server issues. 
 

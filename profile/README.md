@@ -24,7 +24,5 @@ UPDATE: 30-03-2026 > AP SSC 10th Result date Online for the year 2026: Governmen
 | Mark Sheet Avaliability | Online provisional Marksheet via School | 
 | Previous Year result | Declared at april 26th 2025 |
 | Expected time result | Around 10:AM - 12 PM |
-| Result access steps | 1. visit official site bse.ap.gov.in
-                        2. ENTER hall ticket number
-                        3. VIEW/download your result |
+| Result access steps | 1. visit official site bse.ap.gov.in > Enter hall ticket num > View/Download your result |
             

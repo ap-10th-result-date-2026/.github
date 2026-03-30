@@ -7,7 +7,7 @@ UPDATE: 30-03-2026 > AP SSC 10th Result date Online for the year 2026: Governmen
 
 | AP 10th result Update            | Details        |
 | -------------------------------| ---------------- |
-| Exam name | Andhra Pradesh SSC (10th Class) Examination 2026 Exam Result date 2026 |
+| Exam name | Andhra Pradesh SSC (10th Class) Examination 2026 Exam Result date 2026  (Result date and Time update) |
 | COnducting Authority | Board Of Secondary Education, Andhra pradesh (BSE AP) |
 | Exam Year | 2026 |
 | Exam Level | State Board Of Andhra Pradesh |

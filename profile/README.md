@@ -47,6 +47,8 @@ In the internal process, papers are sealed and collected from examination center
 
 **So, now you know how SSC Result dates are Calculated, and how student result data is processed.** 
 
+---
+
 ### What happens exactly on Result day @ bse.ap.gov.in portal
 
 Huge traffic spike is detected on AP Government result servers, viewing results becomes little bit difficult, students may struggle on result day to view their result, for first 2 to 4 hours, sometimes people with only high speed connections view their result, a minor panic situation will be occured, this time, government of AP is planning to avoid this situation. 

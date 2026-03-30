@@ -40,7 +40,7 @@ UPDATE: 30-03-2026
 | Mark Sheet Avaliability | Online provisional Marksheet via School | 
 | Previous Year result | Declared at april 26th 2025 |
 | Expected time result | Around 10:AM - 12 PM |
-| Result access steps | 1. visit official site **(https://results.bse.ap.gov.in/RES25/)** > Enter hall ticket num > View/Download your result |
+| Result access steps | 1. visit official site **(https://results.bse.ap.gov.in/RES26/)** > Enter hall ticket num > View/Download your result |
             
 ## Examination papers evaluation Starts from April 4th 2026
 The Government of andhra pradesh has decided to validate students answer sheets from 4th of april 2026, candidates papers are corrected by government teachers on special shifts, all government teachers are participated to validate papers. This time examination papers are corrected stirctly. 

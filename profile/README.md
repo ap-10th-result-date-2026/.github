@@ -9,7 +9,17 @@ UPDATE: 30-03-2026
 
 <img width="1121" height="268" alt="image" src="https://github.com/user-attachments/assets/29ea1802-b0f5-4c89-adbe-78ac5adc7d3b" />
 
+<h2 align="center">📢 AP 10th Result Alerts 2026</h2>
 
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029Vb7hQwK3QxS2zpYW942U">
+    <img src="https://img.shields.io/badge/🚨%20JOIN%20NOW%20FOR%2010TH%20RESULT%20ALERTS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1DA851" height="75"/>
+  </a>
+</p>
+
+AP 10th result alerts 
+
+<p align="center"><b>⚡ Get instant AP SSC Result 2026 updates before everyone else!</b></p>
 
 | AP 10th result Update            | Details        |
 | -------------------------------| ---------------- |

@@ -94,5 +94,8 @@ NO..! there is no change for that based on our authentic calculation. Answer she
 #### How to handle webpage down issue ?
 Be calm and patient, bse.ap.gov.in provides mirror web servers, all links will be updated here. 
 
+#### What to do if Server Error or runtime error occured ?
+This occours when server unable to process or handle the students result requests, at that time, use our whatsapp group, where we provide you official mirror government servers links to help students view their result faster. 
+
 
 

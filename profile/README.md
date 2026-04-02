@@ -8,7 +8,7 @@ UPDATE: 30-03-2026
 > AP SSC 10th Result date Online for the year 2026: Government of Andhra pradesh is currently conducting examinations, till APRIL 2nd. After that validation of papers will begin. 
 
 <img width="1121" height="268" alt="image" src="https://github.com/user-attachments/assets/29ea1802-b0f5-4c89-adbe-78ac5adc7d3b" />
-Source: https://bse.ap.gov.in > Official
+> Source: https://bse.ap.gov.in > Official
 
 <h2 align="center">📢 AP 10th Result Alerts 2026</h2>
 
@@ -100,6 +100,6 @@ Be calm and patient, bse.ap.gov.in provides mirror web servers, all links will b
 #### What to do if Server Error or runtime error occured ?
 This occours when server unable to process or handle the students result requests, at that time, use our whatsapp group, where we provide you official mirror government servers links to help students view their result faster. 
 
-> 02-02-2026 Update: Today Exams for Andhra pradesh State board SSC examinations are completed successfully, current status is Answer sheets are dispatched from exam centers to Government correction halls.
+> 02-02-2026 Update: Today Exams for Andhra pradesh State board SSC examinations are completed successfully, current status is Answer sheets are dispatched from exam centers to Government correction halls safely.
 
 

@@ -8,6 +8,7 @@ UPDATE: 30-03-2026
 > AP SSC 10th Result date Online for the year 2026: Government of Andhra pradesh is currently conducting examinations, till APRIL 2nd. After that validation of papers will begin. 
 
 <img width="1121" height="268" alt="image" src="https://github.com/user-attachments/assets/29ea1802-b0f5-4c89-adbe-78ac5adc7d3b" />
+Source: https://bse.ap.gov.in > Official
 
 <h2 align="center">📢 AP 10th Result Alerts 2026</h2>
 
@@ -44,6 +45,8 @@ UPDATE: 30-03-2026
             
 ## Examination papers evaluation Starts from April 4th 2026
 The Government of andhra pradesh has decided to validate students answer sheets from 4th of april 2026, candidates papers are corrected by government teachers on special shifts, all government teachers are participated to validate papers. This time examination papers are corrected stirctly. 
+
+> You can also Check AP Intermediate Result date from here: https://github.com/ap-inter-result-date
 
 ## How 10 th Result date is Decided 
 
